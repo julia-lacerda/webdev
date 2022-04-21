@@ -43,10 +43,11 @@ app.post('/ver', function (req, res) {
             if (err) {
                 res.send("Não encontrei nada.");
                 return console.log(err.message);
+            }
                 //se chegar até aqui, o usuário foi encontrado
                 console.log("Inserido com sucesso!");
                 res.send("<p> O usuário com id " + row.id + " foi encontrado e se chama " + row.nome + "</p>"); //está pegando da consulta que fez do banco de dados
-            }
+            
         });
     });
 });
