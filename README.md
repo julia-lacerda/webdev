@@ -5,7 +5,7 @@
 3. Abra-o na pasta em que foi baixado (que geralmente é em Downloads) e <b>extraia os arquivos</b>
 
 Prontinho! Agora vocês podem colocar essas pastas na pasta de estudo de vocês, e abrir no VS Code normalmente :)
-Não esqueçam que para rodar o código no terminal, tem que digitar <code> node [nome do arquivo] </code>
+<p> Não esqueçam que para rodar o código no terminal, tem que digitar <code> node [nome do arquivo] </code> </p>
 
 <hr>
 
